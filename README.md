@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananda+Darma!;" />
 </h1>
 
-<img src=".gif" alt="Gambar" width="100%"/>
+<img src="./images/image.gif" alt="Gambar" width="100%"/>
 
 <h3 align="center">A passionate frontend developer and ui/ux design from Bali, Indonesia</h3>
 
@@ -21,13 +21,14 @@
 
 ---
 
-<h3 align="left">⭐Most Used Languages:</h3>
+<h3 align="left">🔥Most Used Languages:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=padwxyz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
+<h3 align="left">⚡My Stats</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=padwxyz&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
@@ -38,4 +39,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=padwxyz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GitHub Stats" style="width: 48%;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=padwxyz&layout=compact&theme=tokyonight" alt="GitHub Streak" style="width: 48%;"/>
 </p>
-
