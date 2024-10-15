@@ -41,3 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=padwxyz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GitHub Stats" style="width: 48%;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=padwxyz&layout=compact&theme=tokyonight" alt="GitHub Streak" style="width: 48%;"/>
 </p>
+
+---
+
+<h3 align="left">☕Let's contact me and have a glass of americano:</h3>
+
+![Static Badge](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fputuanandaa__%2F) ![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanandadarma%2F) ![Static Badge](https://img.shields.io/badge/gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=ffffff&link=anandadarma2612%40gmail.com)
