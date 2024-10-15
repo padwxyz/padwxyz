@@ -44,6 +44,6 @@
 
 ---
 
-<h3 align="left">☕Let's contact me and have a glass of americano:</h3>
+<h3 align="left">☕Let's connect with me and have a glass of americano:</h3>
 
 ![Static Badge](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fputuanandaa__%2F) ![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanandadarma%2F) ![Static Badge](https://img.shields.io/badge/gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=ffffff&link=anandadarma2612%40gmail.com)
